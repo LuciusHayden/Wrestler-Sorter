@@ -1,0 +1,603 @@
+[
+    {
+        "name": "Wrestler1",
+        "age": 14,
+        "experience": 5,
+        "weight": 122
+    },
+    {
+        "name": "Wrestler2",
+        "age": 11,
+        "experience": 2,
+        "weight": 77
+    },
+    {
+        "name": "Wrestler3",
+        "age": 18,
+        "experience": 7,
+        "weight": 174
+    },
+    {
+        "name": "Wrestler4",
+        "age": 18,
+        "experience": 4,
+        "weight": 159
+    },
+    {
+        "name": "Wrestler5",
+        "age": 11,
+        "experience": 1,
+        "weight": 83
+    },
+    {
+        "name": "Wrestler6",
+        "age": 13,
+        "experience": 2,
+        "weight": 97
+    },
+    {
+        "name": "Wrestler7",
+        "age": 13,
+        "experience": 4,
+        "weight": 81
+    },
+    {
+        "name": "Wrestler8",
+        "age": 15,
+        "experience": 2,
+        "weight": 113
+    },
+    {
+        "name": "Wrestler9",
+        "age": 15,
+        "experience": 1,
+        "weight": 160
+    },
+    {
+        "name": "Wrestler10",
+        "age": 18,
+        "experience": 1,
+        "weight": 168
+    },
+    {
+        "name": "Wrestler11",
+        "age": 10,
+        "experience": 1,
+        "weight": 70
+    },
+    {
+        "name": "Wrestler12",
+        "age": 18,
+        "experience": 7,
+        "weight": 197
+    },
+    {
+        "name": "Wrestler13",
+        "age": 11,
+        "experience": 1,
+        "weight": 84
+    },
+    {
+        "name": "Wrestler14",
+        "age": 13,
+        "experience": 1,
+        "weight": 105
+    },
+    {
+        "name": "Wrestler15",
+        "age": 17,
+        "experience": 3,
+        "weight": 182
+    },
+    {
+        "name": "Wrestler16",
+        "age": 18,
+        "experience": 8,
+        "weight": 148
+    },
+    {
+        "name": "Wrestler17",
+        "age": 13,
+        "experience": 4,
+        "weight": 84
+    },
+    {
+        "name": "Wrestler18",
+        "age": 16,
+        "experience": 2,
+        "weight": 105
+    },
+    {
+        "name": "Wrestler19",
+        "age": 14,
+        "experience": 2,
+        "weight": 129
+    },
+    {
+        "name": "Wrestler20",
+        "age": 14,
+        "experience": 4,
+        "weight": 100
+    },
+    {
+        "name": "Wrestler21",
+        "age": 15,
+        "experience": 1,
+        "weight": 121
+    },
+    {
+        "name": "Wrestler22",
+        "age": 11,
+        "experience": 1,
+        "weight": 69
+    },
+    {
+        "name": "Wrestler23",
+        "age": 12,
+        "experience": 3,
+        "weight": 69
+    },
+    {
+        "name": "Wrestler24",
+        "age": 11,
+        "experience": 1,
+        "weight": 74
+    },
+    {
+        "name": "Wrestler25",
+        "age": 10,
+        "experience": 1,
+        "weight": 86
+    },
+    {
+        "name": "Wrestler26",
+        "age": 17,
+        "experience": 5,
+        "weight": 122
+    },
+    {
+        "name": "Wrestler27",
+        "age": 12,
+        "experience": 1,
+        "weight": 73
+    },
+    {
+        "name": "Wrestler28",
+        "age": 16,
+        "experience": 1,
+        "weight": 168
+    },
+    {
+        "name": "Wrestler29",
+        "age": 16,
+        "experience": 6,
+        "weight": 127
+    },
+    {
+        "name": "Wrestler30",
+        "age": 14,
+        "experience": 5,
+        "weight": 111
+    },
+    {
+        "name": "Wrestler31",
+        "age": 15,
+        "experience": 6,
+        "weight": 160
+    },
+    {
+        "name": "Wrestler32",
+        "age": 13,
+        "experience": 3,
+        "weight": 99
+    },
+    {
+        "name": "Wrestler33",
+        "age": 18,
+        "experience": 4,
+        "weight": 141
+    },
+    {
+        "name": "Wrestler34",
+        "age": 12,
+        "experience": 1,
+        "weight": 86
+    },
+    {
+        "name": "Wrestler35",
+        "age": 11,
+        "experience": 1,
+        "weight": 62
+    },
+    {
+        "name": "Wrestler36",
+        "age": 10,
+        "experience": 1,
+        "weight": 60
+    },
+    {
+        "name": "Wrestler37",
+        "age": 10,
+        "experience": 1,
+        "weight": 69
+    },
+    {
+        "name": "Wrestler38",
+        "age": 11,
+        "experience": 1,
+        "weight": 67
+    },
+    {
+        "name": "Wrestler39",
+        "age": 11,
+        "experience": 1,
+        "weight": 74
+    },
+    {
+        "name": "Wrestler40",
+        "age": 18,
+        "experience": 4,
+        "weight": 123
+    },
+    {
+        "name": "Wrestler41",
+        "age": 12,
+        "experience": 1,
+        "weight": 77
+    },
+    {
+        "name": "Wrestler42",
+        "age": 18,
+        "experience": 8,
+        "weight": 153
+    },
+    {
+        "name": "Wrestler43",
+        "age": 18,
+        "experience": 5,
+        "weight": 191
+    },
+    {
+        "name": "Wrestler44",
+        "age": 15,
+        "experience": 2,
+        "weight": 129
+    },
+    {
+        "name": "Wrestler45",
+        "age": 17,
+        "experience": 7,
+        "weight": 181
+    },
+    {
+        "name": "Wrestler46",
+        "age": 13,
+        "experience": 2,
+        "weight": 110
+    },
+    {
+        "name": "Wrestler47",
+        "age": 12,
+        "experience": 2,
+        "weight": 90
+    },
+    {
+        "name": "Wrestler48",
+        "age": 12,
+        "experience": 3,
+        "weight": 86
+    },
+    {
+        "name": "Wrestler49",
+        "age": 11,
+        "experience": 1,
+        "weight": 78
+    },
+    {
+        "name": "Wrestler50",
+        "age": 15,
+        "experience": 4,
+        "weight": 170
+    },
+    {
+        "name": "Wrestler51",
+        "age": 11,
+        "experience": 2,
+        "weight": 82
+    },
+    {
+        "name": "Wrestler52",
+        "age": 14,
+        "experience": 1,
+        "weight": 140
+    },
+    {
+        "name": "Wrestler53",
+        "age": 13,
+        "experience": 2,
+        "weight": 93
+    },
+    {
+        "name": "Wrestler54",
+        "age": 13,
+        "experience": 3,
+        "weight": 128
+    },
+    {
+        "name": "Wrestler55",
+        "age": 18,
+        "experience": 6,
+        "weight": 167
+    },
+    {
+        "name": "Wrestler56",
+        "age": 11,
+        "experience": 2,
+        "weight": 86
+    },
+    {
+        "name": "Wrestler57",
+        "age": 17,
+        "experience": 2,
+        "weight": 146
+    },
+    {
+        "name": "Wrestler58",
+        "age": 14,
+        "experience": 5,
+        "weight": 84
+    },
+    {
+        "name": "Wrestler59",
+        "age": 13,
+        "experience": 3,
+        "weight": 133
+    },
+    {
+        "name": "Wrestler60",
+        "age": 10,
+        "experience": 1,
+        "weight": 89
+    },
+    {
+        "name": "Wrestler61",
+        "age": 17,
+        "experience": 3,
+        "weight": 156
+    },
+    {
+        "name": "Wrestler62",
+        "age": 10,
+        "experience": 1,
+        "weight": 98
+    },
+    {
+        "name": "Wrestler63",
+        "age": 17,
+        "experience": 5,
+        "weight": 189
+    },
+    {
+        "name": "Wrestler64",
+        "age": 17,
+        "experience": 5,
+        "weight": 130
+    },
+    {
+        "name": "Wrestler65",
+        "age": 16,
+        "experience": 1,
+        "weight": 118
+    },
+    {
+        "name": "Wrestler66",
+        "age": 17,
+        "experience": 8,
+        "weight": 197
+    },
+    {
+        "name": "Wrestler67",
+        "age": 17,
+        "experience": 6,
+        "weight": 186
+    },
+    {
+        "name": "Wrestler68",
+        "age": 16,
+        "experience": 3,
+        "weight": 109
+    },
+    {
+        "name": "Wrestler69",
+        "age": 12,
+        "experience": 1,
+        "weight": 76
+    },
+    {
+        "name": "Wrestler70",
+        "age": 14,
+        "experience": 5,
+        "weight": 119
+    },
+    {
+        "name": "Wrestler71",
+        "age": 16,
+        "experience": 3,
+        "weight": 165
+    },
+    {
+        "name": "Wrestler72",
+        "age": 17,
+        "experience": 4,
+        "weight": 154
+    },
+    {
+        "name": "Wrestler73",
+        "age": 18,
+        "experience": 2,
+        "weight": 194
+    },
+    {
+        "name": "Wrestler74",
+        "age": 14,
+        "experience": 1,
+        "weight": 104
+    },
+    {
+        "name": "Wrestler75",
+        "age": 15,
+        "experience": 3,
+        "weight": 102
+    },
+    {
+        "name": "Wrestler76",
+        "age": 16,
+        "experience": 6,
+        "weight": 104
+    },
+    {
+        "name": "Wrestler77",
+        "age": 10,
+        "experience": 1,
+        "weight": 67
+    },
+    {
+        "name": "Wrestler78",
+        "age": 17,
+        "experience": 6,
+        "weight": 185
+    },
+    {
+        "name": "Wrestler79",
+        "age": 16,
+        "experience": 7,
+        "weight": 165
+    },
+    {
+        "name": "Wrestler80",
+        "age": 15,
+        "experience": 6,
+        "weight": 129
+    },
+    {
+        "name": "Wrestler81",
+        "age": 10,
+        "experience": 1,
+        "weight": 73
+    },
+    {
+        "name": "Wrestler82",
+        "age": 17,
+        "experience": 4,
+        "weight": 174
+    },
+    {
+        "name": "Wrestler83",
+        "age": 18,
+        "experience": 9,
+        "weight": 189
+    },
+    {
+        "name": "Wrestler84",
+        "age": 17,
+        "experience": 3,
+        "weight": 170
+    },
+    {
+        "name": "Wrestler85",
+        "age": 14,
+        "experience": 4,
+        "weight": 81
+    },
+    {
+        "name": "Wrestler86",
+        "age": 12,
+        "experience": 2,
+        "weight": 73
+    },
+    {
+        "name": "Wrestler87",
+        "age": 10,
+        "experience": 1,
+        "weight": 69
+    },
+    {
+        "name": "Wrestler88",
+        "age": 13,
+        "experience": 2,
+        "weight": 91
+    },
+    {
+        "name": "Wrestler89",
+        "age": 14,
+        "experience": 1,
+        "weight": 86
+    },
+    {
+        "name": "Wrestler90",
+        "age": 16,
+        "experience": 6,
+        "weight": 161
+    },
+    {
+        "name": "Wrestler91",
+        "age": 16,
+        "experience": 4,
+        "weight": 150
+    },
+    {
+        "name": "Wrestler92",
+        "age": 11,
+        "experience": 1,
+        "weight": 76
+    },
+    {
+        "name": "Wrestler93",
+        "age": 14,
+        "experience": 4,
+        "weight": 112
+    },
+    {
+        "name": "Wrestler94",
+        "age": 16,
+        "experience": 7,
+        "weight": 141
+    },
+    {
+        "name": "Wrestler95",
+        "age": 18,
+        "experience": 9,
+        "weight": 184
+    },
+    {
+        "name": "Wrestler96",
+        "age": 12,
+        "experience": 3,
+        "weight": 84
+    },
+    {
+        "name": "Wrestler97",
+        "age": 16,
+        "experience": 7,
+        "weight": 134
+    },
+    {
+        "name": "Wrestler98",
+        "age": 11,
+        "experience": 1,
+        "weight": 93
+    },
+    {
+        "name": "Wrestler99",
+        "age": 10,
+        "experience": 1,
+        "weight": 81
+    },
+    {
+        "name": "Wrestler100",
+        "age": 10,
+        "experience": 1,
+        "weight": 86
+    }
+    
+]
